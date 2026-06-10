@@ -16,7 +16,7 @@ percentage points. On WHU Aerial→Satellite II and Satellite II→Aerial, it fu
 <img width="861" height="460" alt="image" src="https://github.com/user-attachments/assets/a05d9b0b-36d7-47e3-bc50-b4261f9b4dc4" />
 
 FIGURE 3:Framework overview of the proposed Joint Spectral-Spatial Adapter (SSA). Given a vision foundation model
-(VFM) as the backbone, it consists of three key components, namely, namely, layer-wise spectral factorization (LSF), spectralspatial mixture-of-expert modeling (SMM), and energy-aware dynamic routing (EDR).
+(VFM) as the backbone, it consists of three key components, namely, namely, layer-wise spectral factorization (LSF), spectral-spatial mixture-of-expert modeling (SMM), and energy-aware dynamic routing (EDR).
 
 Our code will be released after publication. Stay tuned!
 
