@@ -12,4 +12,8 @@ outputs to suppress domain-specific styles without discarding boundaries and fin
 Vaihingen→Potsdam and Potsdam→Vaihingen settings, the proposed method achieves 62.6% and 71.0%
 mIoU, respectively, improving over the strongest comparable DINOv2-based baseline by 1.5 and 3.8
 percentage points. On WHU Aerial→Satellite II and Satellite II→Aerial, it further improves F1/IoU to
-46.9%/43.2% and 74.1%/72.3%, respectively
+46.9%/43.2% and 74.1%/72.3%, respectively.
+<img width="861" height="460" alt="image" src="https://github.com/user-attachments/assets/a05d9b0b-36d7-47e3-bc50-b4261f9b4dc4" />
+Framework overview of the proposed Joint Spectral-Spatial Adapter (SSA). Given a vision foundation model
+(VFM) as the backbone, it consists of three key components, namely, namely, layer-wise spectral factorization (LSF), spectralspatial mixture-of-expert modeling (SMM), and energy-aware dynamic routing (EDR).
+
